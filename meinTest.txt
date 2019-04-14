@@ -1,1 +1,2 @@
 Das ist mein erster GitHub Test. Diese Datei hat noch keinen richtigen Sinn.
+Hier kommt meine erste Änderung.
